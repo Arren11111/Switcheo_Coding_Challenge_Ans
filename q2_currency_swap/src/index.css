@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'tailwindcss';
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Roboto Condensed", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  letter-spacing: .4px;
+
+  color-scheme: light dark;
+  color: rgb(34, 34, 34);
+  background-color: #f2f2f2;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  /* adjust padding to accomodate navbar */
+  padding-top: 4rem;
+}
+
+/* Quick Swap Logo CSS Classes */
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  height: 50px;
+}
+
+.logo {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* Base styles for all shapes */
+.shape {
+  position: absolute;
+  transition: all 1s ease-in-out;
+}
+
+/* Neon green square */
+.neon-square {
+  width: 6px;
+  height: 6px;
+  background-color: #00cc4d;
+  box-shadow: 0 0 10px #00cc4d, 0 0 20px #00cc4d, 0 0 30px #00cc4d;
+  animation: squareAnimation 5s ease-in-out infinite;
+}
+
+/* Neon blue triangle */
+.neon-triangle {
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 7px solid #00ccff;
+  filter: drop-shadow(0 0 10px #00ccff) drop-shadow(0 0 20px #00ccff);
+  animation: triangleAnimation 5s ease-in-out infinite;
+  opacity: 0;
+}
+
+/* Neon red circle */
+.neon-circle {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: #e60026;
+  box-shadow: 0 0 10px #e60026, 0 0 20px #e60026, 0 0 30px #e60026;
+  animation: circleAnimation 5s ease-in-out infinite;
+  opacity: 0;
+}
+
+/* Square animation */
+@keyframes squareAnimation {
+
+  0%,
+  95%,
+  100% {
+    bottom: 10px;
+    left: 9px;
+    opacity: 1;
+  }
+
+  28%,
+  33% {
+    bottom: 10px;
+    left: 24px;
+    /* Moved to triangle position */
+    opacity: 0;
+  }
+
+  61%,
+  66% {
+    bottom: 28px;
+    left: 17px;
+    opacity: 0;
+  }
+}
+
+/* Triangle animation */
+@keyframes triangleAnimation {
+
+  0%,
+  95%,
+  100% {
+    bottom: 10px;
+    left: 9px;
+    opacity: 0;
+  }
+
+  28%,
+  33% {
+    bottom: 10px;
+    left: 24px;
+    /* Moved to triangle position */
+    opacity: 1;
+  }
+
+  61%,
+  66% {
+    bottom: 28px;
+    left: 17px;
+    opacity: 0;
+  }
+}
+
+/* Circle animation */
+@keyframes circleAnimation {
+
+  0%,
+  95%,
+  100% {
+    bottom: 10px;
+    left: 9px;
+    opacity: 0;
+  }
+
+  28%,
+  33% {
+    bottom: 10px;
+    left: 24px;
+    /* Moved to triangle position */
+    opacity: 0;
+  }
+
+  61%,
+  66% {
+    bottom: 28px;
+    left: 17px;
+    opacity: 1;
+  }
+}

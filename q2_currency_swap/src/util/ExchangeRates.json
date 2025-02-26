@@ -1,0 +1,218 @@
+[
+  {
+    "currency": "BLUR",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.208115254237288,
+    "icon": "/tokenimages/BLUR.svg"
+  },
+  {
+    "currency": "bNEO",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 7.1282679,
+    "icon": "/tokenimages/bNEO.svg"
+  },
+  {
+    "currency": "BUSD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.999183113,
+    "icon": "/tokenimages/BUSD.svg"
+  },
+  {
+    "currency": "BUSDT",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.999878261118644,
+    "icon": "/tokenimages/BUSDT.svg"
+  },
+  {
+    "currency": "USD",
+    "date": "2023-08-29T07:10:30.000Z",
+    "price": 1,
+    "icon": "/tokenimages/USD.svg"
+  },
+  {
+    "currency": "ETH",
+    "date": "2023-08-29T07:10:52.000Z",
+    "price": 1645.93373737374,
+    "icon": "/tokenimages/ETH.svg"
+  },
+  {
+    "currency": "GMX",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 36.3451143728814,
+    "icon": "/tokenimages/GMX.svg"
+  },
+  {
+    "currency": "STEVMOS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.0727670677966102,
+    "icon": "/tokenimages/STEVMOS.svg"
+  },
+  {
+    "currency": "LUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.409556389830508,
+    "icon": "/tokenimages/LUNA.svg"
+  },
+  {
+    "currency": "RATOM",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 10.2509189152542,
+    "icon": "/tokenimages/RATOM.svg"
+  },
+  {
+    "currency": "STRD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.738655338983051,
+    "icon": "/tokenimages/STRD.svg"
+  },
+  {
+    "currency": "EVMOS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.062461813559322,
+    "icon": "/tokenimages/EVMOS.svg"
+  },
+  {
+    "currency": "IBCX",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 41.268113559322,
+    "icon": "/tokenimages/IBCX.svg"
+  },
+  {
+    "currency": "IRIS",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.0177095593220339,
+    "icon": "/tokenimages/IRIS.svg"
+  },
+  {
+    "currency": "ampLUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.495485898305085,
+    "icon": "/tokenimages/ampLUNA.svg"
+  },
+  {
+    "currency": "KUJI",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.675,
+    "icon": "/tokenimages/KUJI.svg"
+  },
+  {
+    "currency": "STOSMO",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.431318,
+    "icon": "/tokenimages/STOSMO.svg"
+  },
+  {
+    "currency": "USDC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.989832,
+    "icon": "/tokenimages/USDC.svg"
+  },
+  {
+    "currency": "axlUSDC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.989832,
+    "icon": "/tokenimages/axlUSDC.svg"
+  },
+  {
+    "currency": "ATOM",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 7.18665733333333,
+    "icon": "/tokenimages/ATOM.svg"
+  },
+  {
+    "currency": "STATOM",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 8.51216205084746,
+    "icon": "/tokenimages/STATOM.svg"
+  },
+  {
+    "currency": "OSMO",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 0.377297433333333,
+    "icon": "/tokenimages/OSMO.svg"
+  },
+  {
+    "currency": "rSWTH",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.00408771,
+    "icon": "/tokenimages/rSWTH.svg"
+  },
+  {
+    "currency": "STLUNA",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.442322101694915,
+    "icon": "/tokenimages/STLUNA.svg"
+  },
+  {
+    "currency": "LSI",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 67.6966152542373,
+    "icon": "/tokenimages/LSI.svg"
+  },
+  {
+    "currency": "OKB",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 42.9756205932203,
+    "icon": "/tokenimages/OKB.svg"
+  },
+  {
+    "currency": "OKT",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 13.5615779661017,
+    "icon": "/tokenimages/OKT.svg"
+  },
+  {
+    "currency": "SWTH",
+    "date": "2023-08-29T07:10:45.000Z",
+    "price": 0.00403985045501208,
+    "icon": "/tokenimages/SWTH.svg"
+  },
+  {
+    "currency": "USC",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.994,
+    "icon": "/tokenimages/USC.svg"
+  },
+  {
+    "currency": "USDCe",
+    "date": "2023-08-29T07:10:30.000Z",
+    "price": 1,
+    "icon": "/tokenimages/USDCe.svg"
+  },
+  {
+    "currency": "USDCgrv",
+    "date": "2023-08-29T07:10:30.000Z",
+    "price": 1,
+    "icon": "/tokenimages/USDCgrv.svg"
+  },
+  {
+    "currency": "USDCdATOM",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 0.999878261118644,
+    "icon": "/tokenimages/USDC-dATOM.svg"
+  },
+  {
+    "currency": "WBTC",
+    "date": "2023-08-29T07:10:52.000Z",
+    "price": 26002.822020202,
+    "icon": "/tokenimages/WBTC.svg"
+  },
+  {
+    "currency": "wstETH",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 1872.25797423729,
+    "icon": "/tokenimages/wstETH.svg"
+  },
+  {
+    "currency": "YieldUSD",
+    "date": "2023-08-29T07:10:40.000Z",
+    "price": 1.02908479661017,
+    "icon": "/tokenimages/YieldUSD.svg"
+  },
+  {
+    "currency": "ZIL",
+    "date": "2023-08-29T07:10:50.000Z",
+    "price": 0.0165181355932203,
+    "icon": "/tokenimages/ZIL.svg"
+  }
+]
