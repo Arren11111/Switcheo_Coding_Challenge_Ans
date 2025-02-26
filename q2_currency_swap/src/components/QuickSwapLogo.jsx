@@ -7,7 +7,7 @@ function QuickSwapLogo() {
         <div className="shape neon-triangle"></div>
         <div className="shape neon-circle"></div>
       </div>
-      <h1 className="text-xl">QuickSwap</h1>
+      <h1 className="text-xl">QuikSwap</h1>
     </div>
   );
 }
