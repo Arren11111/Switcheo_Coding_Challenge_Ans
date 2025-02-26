@@ -37,7 +37,7 @@ function TransactionCard({
             name={`${title}Currency`}
             value={currency.name || ""}
             onChange={handleCurrencyChange}
-            className="bg-zinc-100 rounded-lg p-2 focus:outline-none"
+            className="rounded-2xl p-1 mx-2 focus:outline-none appearance-none bg-zinc-200 hover:bg-zinc-300 transition-color duration-150 text-center"
           >
             <option value="">Select</option>
             {exchangeRates.map((rate) => (
