@@ -109,7 +109,7 @@ function SwapPane() {
   };
 
   return (
-    <form className="my-32 max-w-xl mx-auto">
+    <form className="my-32 max-w-xl mx-auto px-8">
       <h2 className="text-4xl text-zinc-800 my-8">Crypto Exchange</h2>
       <section className="relative">
         <TransactionCard

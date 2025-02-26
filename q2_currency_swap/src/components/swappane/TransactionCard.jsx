@@ -8,7 +8,7 @@ function TransactionCard({
   handleCurrencyChange,
 }) {
   return (
-    <div className="-z-20 border-1 border-zinc-500/30 rounded-3xl flex flex-col justify-center gap-4 px-4 py-4">
+    <div className="min-w-sm border-1 border-zinc-500/30 rounded-3xl flex flex-col justify-center gap-4 px-4 py-4">
       <label htmlFor={`${title}Amount`}>
         <h3 className="text-zinc-900 text-lg">{title}</h3>
       </label>
@@ -19,7 +19,7 @@ function TransactionCard({
           name={`${title}Amount`}
           value={amount}
           onChange={handleAmountChange}
-          className="text-4xl appearance-none focus:outline-none"
+          className="text-4xl appearance-none focus:outline-none w-1/2"
         ></input>
         <div className="flex items-center">
           {currency.name && (
